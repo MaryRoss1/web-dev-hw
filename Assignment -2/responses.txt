@@ -1,0 +1,5 @@
+# Responses
+Data travels in packets
+DNS converts references into a server's IP address
+small files stored on a user's computer
+Protocol, server name and resource ID
