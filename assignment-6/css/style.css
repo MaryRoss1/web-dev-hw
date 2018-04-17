@@ -3,6 +3,7 @@
   width: 800px;
   height: 800px;
   position: absolute;
+  opacity: .5;
 }
 
 .text{
