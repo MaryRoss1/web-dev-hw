@@ -1,52 +1,53 @@
-.text{
-  font-family: sans-serif;
-  color: #FFD700;
-  position: absolute;
-  top: 150px;
-
-}
-
-
 .back{
   background-color: rgb(255, 214, 128);
   width: 800px;
   height: 800px;
   position: absolute;
+  opacity: .3
 }
+
+.text{
+  font-family: sans-serif;
+  color: #FFD700;
+  position: absolute;
+  top: 100px;
+}
+
 
 .photo{
   opacity: .8 !important;
   position: absolute;
   width: 500px;
   height: 500px;
+  top: 75px;
 }
 
 .cir-1{
-  background-color: ##F8F8FF;
+  background-color: #F8F8FF;
   height: 70px;
   width: 70px;
-  radius: 100%;
+  border-radius: 100%;
   position: absolute;
   left: 200px;
-  top: 150 px;
+  top: 300px;
 }
 
 .cir-2{
-  background-color: ##F8F8FF;
+  background-color: #F8F8FF;
   height: 70px;
   width: 70px;
-  radius: 100%;
+  border-radius: 100%;
   position: absolute;
   left: 400px;
-  top: 150 px;
+  top: 300px;
 }
 
 .cir-3{
-  background-color: ##F8F8FF;
+  background-color: #F8F8FF;
   height: 70px;
   width: 70px;
-  radius: 100%;
+  border-radius: 100%;
   position: absolute;
   left: 600px;
-  top: 150 px;
+  top: 300px;
 }
