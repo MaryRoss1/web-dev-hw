@@ -1,0 +1,60 @@
+body {
+  background-color: #D2B48C;
+
+}
+
+h1 {
+  font-family:'Leckerli One', cursive;
+  font-size: 500%;
+  font-weight: bolder;
+  color: #800000;
+  letter-spacing: 2;
+
+}
+
+h2 {
+  font-family:'Leckerli One', cursive;
+  font-size: 200%;
+  font-weight: normal;
+  color: #800000;
+}
+
+h3 {
+  font-family: 'Montserrat';
+  font-size: 150%;
+  color: #191970;
+
+}
+
+h4 {
+  font-family: 'Montserrat';
+  font-size: 125%;
+  color: #191970;
+}
+
+p {
+  font-family:'Montserrat';
+  color:#191970;
+  text-align: center;
+}
+
+.button {
+  color: #800000;
+  font-weight: 200;
+  text-align: center;
+  font-size: 100%;
+}
+
+.button:hover {
+  color: #191970;
+
+}
+
+.button:active {
+  color: white;
+  background-color: white;
+}
+
+.button:visited {
+  color: gray;
+}

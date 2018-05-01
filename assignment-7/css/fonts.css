@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Leckerli One';
+  src: url('../fonts/LeckerliOne-Regular.tff') format ('opentype')
+
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('../fonts/Montserrat-Regular.tff') format ('opentype');
+  
+}
